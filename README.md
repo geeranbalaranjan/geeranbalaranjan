@@ -33,7 +33,7 @@ Building interactive, intuitive, and human-centered software & web experiences.
 - 💼 [LinkedIn](https://www.linkedin.com/in/geeranbalaranjan)  
 - 🌐 [Portfolio](https://geeran.me)  
 - 📧 [Email](mailto:geeranbalaranjan@gmail.com)
-- ✖️ [x](https://x.com/GeeranBala)
+- ✖️ [Twitter](https://x.com/GeeranBala)
 
 ---
 
