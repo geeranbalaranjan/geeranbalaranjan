@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Geeran Balaranjan
+# 👋 Hi, I'm Geeran
 
 **Software Developer | Computer Science @ Wilfrid Laurier University (Waterloo, ON)**  
 Building interactive, intuitive, and human-centered software & web experiences.
