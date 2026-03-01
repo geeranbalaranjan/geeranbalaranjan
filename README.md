@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Geeran
 
 **Software Developer | Computer Science @ Wilfrid Laurier University (Waterloo, ON)**  
-Building interactive, intuitive, and human-centered software & web experiences.
+Building at the intersection of software, security, and sustainability.
 
 ---
 
