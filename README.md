@@ -14,10 +14,10 @@ Building interactive, intuitive, and human-centered software & web experiences.
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Java, Python, JavaScript, SQL, C#, C/C++, Ruby  
-- **Web Frameworks:** HTML/CSS, React.js, AngularJS, Node.js, Express.js, Flask, Django, Flux, Nuxt.js  
+- **Languages:** Java, Python, JavaScript, SQL, C/C++, Java
+- **Web Frameworks:** HTML/CSS, React.js, Node.js, Express.js, Flask, Django, Flux, Nuxt.js  
 - **Databases & Tools:** MySQL, Redis, DynamoDB, PostgreSQL, MongoDB  
-- **Cloud / DevOps:** AWS, Docker, Git, Selenium   
+- **Cloud / DevOps:** AWS, Docker, Git   
 
 
 ---
