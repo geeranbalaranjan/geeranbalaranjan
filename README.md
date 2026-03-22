@@ -14,7 +14,7 @@ Building at the intersection of software, security, and sustainability.
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Java, Python, JavaScript, SQL, C/C++, Java
+- **Languages:** Java, Python, JavaScript, SQL, C/C++
 - **Web Frameworks:** HTML/CSS, React.js, Node.js, Express.js, Flask, Django, Flux, Nuxt.js  
 - **Databases & Tools:** MySQL, Redis, DynamoDB, PostgreSQL, MongoDB  
 - **Cloud / DevOps:** AWS, Docker, Git   
